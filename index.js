@@ -6,6 +6,10 @@ function randomMessage(){
     //create a table content message
         var message = ['Bonjour', 'Hello', 'Mbote', 'Salut', 'Djambo'];
     
+    //create a variable content message random
+        var indexMessage = Math.floor((Math.random).message.length);
+    
+        
     }
     
     console.log(indexMessage)
