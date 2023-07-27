@@ -12,4 +12,5 @@ function randomMessage(){
         return message[indexMessage]
 }
 
+//call a function randomMessage
 console.log(randomMessage());
