@@ -10,4 +10,6 @@ function randomMessage(){
         var indexMessage = Math.floor((Math.random) * message.length);
     
         return message[indexMessage]
-    }
+}
+
+console.log(randomMessage());
