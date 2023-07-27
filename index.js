@@ -9,7 +9,5 @@ function randomMessage(){
     //create a variable content message random
         var indexMessage = Math.floor((Math.random).message.length);
     
-        
+        return message[indexMessage]
     }
-    
-    console.log(indexMessage)
